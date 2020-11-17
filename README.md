@@ -1,3 +1,3 @@
 # hadoop-automation
 
-🐘 Automate Hadoop configuration on Linux OS
+🐘 Automate the Hadoop configuration on Linux OS
